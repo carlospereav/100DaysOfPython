@@ -7,3 +7,5 @@ I took this course to improve my skills in python, while also building my portof
 This repository contain some of the final projects, purely made by myself without the course's guidance.
 
 # Final Projects
+- [Analyse and Visualise the Space Race](https://github.com/carlospereav/100DaysOfPython/blob/main/Space%2BMissions%2B(start)/Space_Missions_Analysis_(start).ipynb) (Data Science)
+- [Analyze Deaths Involving the Police in USA](https://github.com/carlospereav/100DaysOfPython/blob/main/Fatal%2BForce%2B(start)/Fatal_Force_(start).ipynb) (Data Science)
