@@ -1,6 +1,6 @@
 Hello there, I'm Carlos Perea.
 
-Recently I decided to take 100 Days of Python Course by Angela Yu on Udemy.
+Recently I decided to take 100 Days of Python Course by Angela Yu on Udemy (https://www.udemy.com/course/100-days-of-code/).
 
 I took this course to improve my skills in python, while also building my portofolio.
 
