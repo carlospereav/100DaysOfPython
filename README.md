@@ -7,5 +7,9 @@ I took this course to improve my skills in python, while also building my portof
 This repository contain some of the final projects, purely made by myself without the course's guidance.
 
 # Final Projects
-- [Analyse and Visualise the Space Race](https://github.com/carlospereav/100DaysOfPython/blob/main/Space%2BMissions%2B(start)/Space_Missions_Analysis_(start).ipynb) (Data Science)
-- [Analyze Deaths Involving the Police in USA](https://github.com/carlospereav/100DaysOfPython/blob/main/Fatal%2BForce%2B(start)/Fatal_Force_(start).ipynb) (Data Science)
+- [Tic Tac Toe](https://github.com/carlospereav/100DaysOfPython/tree/main/Day84) (OOP)
+- [Breakout Game](https://github.com/carlospereav/100DaysOfPython/tree/main/Day87) (OOP)
+- [Disappearing Text Writing App](https://github.com/carlospereav/100DaysOfPython/tree/main/Day90) (TKinter)
+- [Convert PDF to Audiobook](https://github.com/carlospereav/100DaysOfPython/tree/main/Day91) (Text-To-Speech)
+- [Analyse and Visualise the Space Race](https://github.com/carlospereav/100DaysOfPython/tree/main/Space%2BMissions%2B(start)) (Data Science)
+- [Analyze Deaths Involving the Police in USA](https://github.com/carlospereav/100DaysOfPython/tree/main/Space%2BMissions%2B(start)) (Data Science)
